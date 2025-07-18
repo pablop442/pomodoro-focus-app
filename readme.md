@@ -13,13 +13,6 @@ A modern, desktop-based **Pomodoro Timer with LoFi music** for focused work sess
 
 ---
 
-## 🚀 Preview
-
-![screenshot-dark](screenshots/dark_mode.png)
-![screenshot-light](screenshots/light_mode.png)
-
----
-
 ## 🔧 Requirements
 
 * Python 3.8+
@@ -113,7 +106,7 @@ To stop music when exiting:
 
 ## 🚀 Author
 
-Made with ♥ by [Your Name](https://github.com/YOUR_USERNAME)
+Made by pablop442
 
 ---
 
